@@ -3,7 +3,8 @@
  
    The exploratory data analysis of the dataset reveals important information. The data shows that there is a majority of Year 2 and 3 students. There is a big pool of majors, but Biology and Physics are the most common. Orders are university-specific, which could potentially introduce a bias favoring universities with more participation. Furthermore, the dataset highlights that most orders are placed during lunch (11-15 timeframe); this is to be expected at college campuses as almost all students will be on campus during this time. Additionally, other biases outside of the university bias could be:
    - lack of demographic information, could lead to underrepresentation or misrepresentation.
-   - seasonal changes, orders might change seasonally, affecting model accuracy
+   - seasonal changes, orders might change seasonally, affecting model accuracy.
+  
 The dataset could have valuable applications in other businesses such as:
    - Supply Chain Optimization, determining the demand for specific items across universities would create a better inventory management.
    - Marketing Strategies, tailoring marketing campaigns to specific universities or majors based on food preferences.
